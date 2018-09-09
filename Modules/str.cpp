@@ -12,7 +12,7 @@ int strLength(const char* str)
 {
 
 	//在此处加入计算字符串长度的代码
-	return 0;
+	return 0; 
 }
 
 char* toLowerCase(char* str)
