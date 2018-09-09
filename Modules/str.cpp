@@ -16,7 +16,7 @@ int strLength(const char* str)
 }
 
 char* toLowerCase(char* str)
-{
+{ 
 	//在此处加入转换为小写的代码  
 	return str;
 }
