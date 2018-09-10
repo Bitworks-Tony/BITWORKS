@@ -7,7 +7,7 @@ int main()
 {
 	const char* source = "Hello,Bitworks\n";
 	char* dest = (char*)malloc(1024);
-	strCopy(dest, source);
+	strCopy(dest, source); 
 	printf("%s\n", dest);
 	getch(); 
 	return 0; 
