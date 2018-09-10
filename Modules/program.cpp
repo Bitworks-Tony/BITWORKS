@@ -10,5 +10,5 @@ int main()
 	strCopy(dest, source);
 	printf("%s\n", dest);
 	getch(); 
-	return 0;
+	return 0; 
 }
